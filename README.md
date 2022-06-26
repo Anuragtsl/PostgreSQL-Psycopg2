@@ -23,11 +23,11 @@ With Python, there are various ways we can access a PostgreSQL database. There a
 
 # Preview
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/PostgreSQL-Psycopg2/blob/main/images/1.png)
 
-![Image2]()
+![Image2](https://github.com/Anuragtsl/PostgreSQL-Psycopg2/blob/main/images/2.png)
 
-![Image3]()
+![Image3](https://github.com/Anuragtsl/PostgreSQL-Psycopg2/blob/main/images/3.png)
 
 
 #Njoy!!
