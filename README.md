@@ -15,7 +15,7 @@ With Python, you can easily establish a connection to your PostgreSQL database. 
 * Python psycopg2 read image
 * Python psycopg2 export and import of data
 
-***Follow [notebook]() for more!!***
+***Follow [notebook](https://github.com/Anuragtsl/PostgreSQL-Psycopg2/blob/main/PostgreSQL%20in%20Python.ipynb) for more!!***
 
 # Conclusion
 
